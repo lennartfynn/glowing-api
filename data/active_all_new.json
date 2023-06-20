@@ -22924,17 +22924,6 @@
     "active_tle2": "2 46559  53.0545 306.9260 0001027  94.1907 265.9199 15.06424492149506"
   },
   {
-    "active_object_name": "STARLINK-1706",
-    "active_object_id": "2020-070AE",
-    "active_norad_cat_id": 46560,
-    "active_owner": "US",
-    "active_launch_date": "2020-10-06",
-    "active_launch_site": "AFETR",
-    "active_purpose": "communications",
-    "active_tle1": "1 46560U 20070AE  23167.17774840  .33715401  12133-4  98642-3 0  9997",
-    "active_tle2": "2 46560  52.9901 245.9345 0019473 168.6935 274.6048 16.43156836150395"
-  },
-  {
     "active_object_name": "STARLINK-1709",
     "active_object_id": "2020-070AF",
     "active_norad_cat_id": 46561,
