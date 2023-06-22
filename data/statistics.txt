@@ -1,0 +1,7 @@
+Country, Naming Convention, Number of Satellites
+USA, 'US', 5148
+Russia,'CIS', 214
+China, 'PRC', 669
+Great Britain, 'UK', 665
+Japan, 'JPN', 89
+Others, ,1049
